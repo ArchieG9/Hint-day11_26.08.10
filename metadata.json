@@ -1,0 +1,6 @@
+{
+  "name": "My Career Anchor",
+  "description": "에드거 샤인(Edgar Schein)의 8가지 커리어 앵커 이론에 기반한 40문항 진단 및 AI 맞춤형 커리어 분석 리포트 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
